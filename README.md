@@ -1,6 +1,6 @@
 # Customizing-Your-Models-with-Tensorflow-2
 
-This repository contains my Jupyter Notebooks for the assignments in the course "Customizing your Models with Tensorflow 2" from Imperial College London on Coursera.
+This repository contains my Jupyter Notebooks for the assignments in the course "Customizing your Models with Tensorflow 2" from Imperial College London on Coursera. Course 2/3 of the "Tensorflow 2 for Deep Learning Specializiation".
 
 - Week 1: The Keras Functional API
 - Week 2: Data Pipeline
